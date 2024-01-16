@@ -1,6 +1,6 @@
 # hello-world
-This is the hello world repository... from the github mini guide.
 
-I can't wait to get my coding journey started!
+## Description
 
-Linus
+Hello! This is my NEW new repository.
+Why is this not letting me commit
